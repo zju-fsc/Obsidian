@@ -50,7 +50,7 @@
 
 ​
 
-Effect of Frame Processing Frequency on Object Identification Using MobileNetV2 Neural Network for a Mobile Robot
+# Effect of Frame Processing Frequency on Object Identification Using MobileNetV2 Neural Network for a Mobile Robot
 
   
 
@@ -80,7 +80,7 @@ Limitations and Future Improvements:
 
 ​
 
-Neural Radiance Fields in the Industrial and Robotics Domain: Applications, Research Opportunities and Use Cases
+# Neural Radiance Fields in the Industrial and Robotics Domain: Applications, Research Opportunities and Use Cases
 
   
 
